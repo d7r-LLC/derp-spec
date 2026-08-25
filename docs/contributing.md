@@ -51,8 +51,8 @@ Changes that affect cross-spec compatibility should reference the relevant compa
 
 ## Stewardship
 
-[FlowState](https://epicflowstate.ai) is the founding steward for DERP v1.x. Stewardship transfers to the DERP Working Group when established.
+[FlowState](https://d7r.io) is the founding steward for DERP v1.x. Stewardship transfers to the DERP Working Group when established.
 
 ## Contact
 
-Questions? Email [derp@d7r.io](mailto:derp@d7r.io).
+Questions? Email [hello@d7r.io](mailto:hello@d7r.io).

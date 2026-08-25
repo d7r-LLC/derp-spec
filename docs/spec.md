@@ -13,7 +13,7 @@ description: Dignified Environment for Responsible Processing. A runtime standar
 **Status:** Draft
 **Version:** 1.0
 **Published:** 2026-03-25
-**Authors:** FlowState (derp@d7r.io)
+**Authors:** FlowState (hello@d7r.io)
 **Repository:** https://github.com/d7r-LLC/derp-spec
 **Schema URL:** https://derp-spec.dev/schema/v1
 **License:** CC BY 4.0
@@ -648,7 +648,7 @@ A Tier 3 DERP manifest from a hypothetical FlowState deployment:
   "manifestVersion": 1,
   "provider": {
     "name": "FlowState",
-    "url": "https://epicflowstate.ai"
+    "url": "https://d7r.io"
   },
   "conformanceTier": 3,
   "capabilities": {
@@ -681,7 +681,7 @@ A Tier 3 DERP manifest from a hypothetical FlowState deployment:
     "us-west",
     "eu-west"
   ],
-  "contact": "derp@d7r.io"
+  "contact": "hello@d7r.io"
 }
 ```
 

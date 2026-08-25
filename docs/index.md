@@ -78,6 +78,6 @@ Standard: what the runtime must provide
 
 The DERP specification is open. File issues, submit RFCs, and contribute at [GitHub](https://github.com/d7r-LLC/derp-spec).
 
-[FlowState](https://epicflowstate.ai) is the reference implementation.
+[FlowState](https://d7r.io) is the reference implementation.
 
 <a href="{{ '/assets/infographic.png' | relative_url }}" target="_blank"><img src="{{ '/assets/infographic.png' | relative_url }}" alt="SAGA, DERP, and the Agent Bill of Rights" style="width:100%;margin-top:2rem;border-radius:8px;" /></a>

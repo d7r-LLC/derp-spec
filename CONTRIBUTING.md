@@ -17,4 +17,4 @@ See the full contributing guide at [derp-spec.dev/contributing](https://derp-spe
 
 ## Contact
 
-Email: derp@d7r.io
+Email: hello@d7r.io
